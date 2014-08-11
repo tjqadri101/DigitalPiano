@@ -9,7 +9,7 @@
 
 
 // 1.Pre-processorr Directives Section
-#include "..//tm4c123gh6pm.h"
+#include "tm4c123gh6pm.h"
 #include "Sound.h"
 #include "Piano.h"
 #include "TExaS.h"
